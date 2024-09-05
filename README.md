@@ -7,4 +7,5 @@
 Important resources:
 
 [DeepMind's repository](https://github.com/google-deepmind/deepmind-research/tree/master/enformer)
+
 [Lucidrain's repository](https://github.com/lucidrains/enformer-pytorch)
